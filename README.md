@@ -138,3 +138,8 @@ As an acknowledgement of Divmod’s contributions, the current maintainers (some
 The Divmod projects are all named for various mathematical concepts.
 
 The vertex of an angle is where two rays begin or meet, and Vertex is meant to be the meeting point for your network communications.
+
+### Development - installing dependencies ###
+
+To run tests, a few more dependencies are required. 
+They can be installed by running `pip install -r dev-requirements.txt`
