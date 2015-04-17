@@ -142,4 +142,6 @@ The vertex of an angle is where two rays begin or meet, and Vertex is meant to b
 ### Development - installing dependencies ###
 
 To run tests, a few more dependencies are required. 
-They can be installed by running `pip install -r dev-requirements.txt`
+They can be installed by running:
+    
+    pip install -r dev-requirements.txt
